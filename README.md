@@ -7,4 +7,4 @@
 - How to use React hooks
 - useEffect, useState, useRef, useCallback hooks
 - IntersectionObserver with React
-- used `set` in javascript, pass it an array and it return just the unique elements
+- used `set` in javascript, pass it an array and it returns just the unique elements
